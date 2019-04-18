@@ -5,7 +5,7 @@ Tokens – words or entities present in the text
 Text object – a sentence or a phrase or a word or an article
 
 
-• TEXT PROCESSING
+• TEXT PROCESSING :
 Since, text is the most unstructured form of all the available data, various types of noise are present in it and the data is not readily analyzable without any pre-processing. The entire process of cleaning and standardization of text, making it noise-free and ready for analysis is known as text preprocessing.
 
 It is predominantly comprised of three steps:
@@ -14,7 +14,7 @@ Lexicon Normalization
 Object Standardization
 
 
-• NOISE REMOVAL
+• NOISE REMOVAL :
 Any piece of text which is not relevant to the context of the data and the end-output can be specified as the noise.
 
 For example – language stopwords (commonly used words of a language – is, am, the, of, in etc), URLs or links, social media entities (mentions, hashtags), punctuations and industry specific words. This step deals with removal of all types of noisy entities present in the text.
