@@ -21,4 +21,4 @@ For example – language stopwords (commonly used words of a language – is, am
 
 A general approach for noise removal is to prepare a dictionary of noisy entities, and iterate the text object by tokens (or by words), eliminating those tokens which are present in the noise dictionary.
 
-Following is the python code for the same purpose.
+
